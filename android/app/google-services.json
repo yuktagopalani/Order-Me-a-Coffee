@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78194220574",
+    "project_id": "order-me-a-coffee",
+    "storage_bucket": "order-me-a-coffee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78194220574:android:4102deae3bf7d10d83180f",
+        "android_client_info": {
+          "package_name": "com.example.ordermeacoffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78194220574-3ha45d6asmr4d6upp8g3is3h4e1b4qdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpI1C8zMlT_MrxLBlMSp2dmBM7prNBnVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78194220574-3ha45d6asmr4d6upp8g3is3h4e1b4qdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
